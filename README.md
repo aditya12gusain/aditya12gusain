@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Gusain</h1>
 <h3 align="center">A passionate full stack developer from India, I bring thoughts and emotions to life 😎</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya12gusain&label=Profile%20views&color=0e75b6&style=flat" alt="aditya12gusain" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya12gusain" alt="aditya12gusain" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adityag59148461" target="blank"><img src="https://img.shields.io/twitter/follow/adityag59148461?logo=twitter&style=for-the-badge" alt="adityag59148461" /></a> </p>
