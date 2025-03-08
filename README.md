@@ -7,17 +7,17 @@
 
 
 
-- 🔭 I’m currently working as [Full Stack Web Developer Instructor](https://www.devtown.in/)
+- 🔭 I’m currently working as [Software Developer - Frontend Heavy](https://unolo.com/)
 
 - 🌱 I’m currently learning **Next.js, GraphQL, Testing**
 
-- 👨‍💻 All of my projects are available at [https://adityagusain.netlify.app/](https://adityagusain.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://adityagusain.com/](https://adityagusain.com/)
 
 - 💬 Ask me about **HTML, CSS, React, JS, Redux, Node.js**
 
 - 📫 How to reach me **adisandi3112002@gmail.com**
 
-- 📄 Know about my experiences [https://adityagusain.netlify.app/](https://adityagusain.netlify.app/)
+- 📄 Know about my experiences [https://adityagusain.com/](https://adityagusain.com/)
 
 - ⚡ Fun fact **I am a good Singer**
 
